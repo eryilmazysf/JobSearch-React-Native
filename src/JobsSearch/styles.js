@@ -49,6 +49,6 @@ export const jobs = StyleSheet.create({
   },
   jobDesc: {
     padding: 5,
-    height: Dimensions.get('window').height / 2,
+    height: Dimensions.get('window').height / 3,
   },
 });

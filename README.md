@@ -6,14 +6,19 @@
   <img src="https://user-images.githubusercontent.com/63063197/99688842-42b96d80-2a54-11eb-8117-c1b1836586a7.png" width="200" height="300">
   <img src="https://user-images.githubusercontent.com/63063197/99688852-451bc780-2a54-11eb-87e7-10def700087e.png" width="200" height="300">
   </p>
-  <p>
-  ➡️  The Home Page consists of  programming languages.
-  ➡️  Users can see job opportunities  by clicking this programming languages.
-  ➡️  Each language has several jobs. 
-  ➡️  Users can look job details by clickinh each job section. They can register jobs they want to look after. 
-  ➡️  Register jobs is registered in register page. Users can look this jobs by clicking to look register button.
-  ➡️  Register jobs are kept in phone memory as long as users don’t clear these jobs. 
-</p>
+  <p> ➡️  The Home Page consists of  programming languages.</p>
+  <p> ➡️  Users can see job opportunities  by clicking this programming languages.</p>
+  <p> ➡️  Each language has several jobs.</p>
+  <p> ➡️  Users can look job details by clickinh each job section. They can register jobs they want to look after.</p>
+  <p> ➡️  Register jobs is registered in register page. Users can look this jobs by clicking to look register button.</p>
+  <p> ➡️  Register jobs are kept in phone memory as long as users don’t clear these jobs.</p>
+ 
+ 
+   
+   
+  
+   
+
 
   
   
